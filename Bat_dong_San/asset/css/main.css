@@ -1,0 +1,285 @@
+/* Container */
+
+.slieder {
+    width: 100%;
+    height: 300px;
+    background-color: #fff;
+    margin-top: 25px;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.slieder--img {
+    width: 60%;
+    height: 270px;
+    padding: 15px;
+    padding-right: 8px;
+}
+
+.slider--img--photoshop {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.Nhanh-phu__slieder {
+    width: 40%;
+    height: 270px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.bat_dong-san {
+    width: 100%;
+    height: 100%;
+}
+
+/* contai__incineration */
+
+
+.incineration--min {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 15px;
+    padding-top: 5px;
+}
+
+.incineration--item {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.BREAKINg {
+    font-size: 1.8rem;
+    margin-bottom: 0;
+}
+
+.breaking-new {
+    display: flex;
+    list-style: none;
+    
+}
+
+.new--nav {
+    padding: 2px 0;
+    border: 1px solid #9e9e9e;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.new--nav:hover .new__nav--even {
+    text-decoration: underline;
+}
+
+.new__nav--even {
+    text-decoration: none;
+    font-size: 1.4rem;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #000 ;
+    text-align: center;
+}
+
+.incineration--vui {
+    background-color: #fff;
+    width: 100%;
+    margin-bottom: 15px;
+
+}
+
+.paing--img {
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.img__grap {
+    width: 20%;
+    position: relative;
+    display: block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.grawp--img-incinerration {
+    padding-top: 50%;
+    background-size :cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+
+.name-img--inciner {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    line-height: 2.2rem;
+}
+
+/* for__your */
+
+.for__your {
+    background-color: #fff;
+}
+
+.Rionpion {
+   
+    padding-top: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.for__you--lease {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 15px;
+}
+
+.leaser-img {
+    width: 200px;
+    height: 165px;
+    object-fit: cover;
+    padding-right: 5px;
+}
+
+.laser__your--sell {
+    padding-left: 8px;
+}
+
+.leaser--house-introduction {
+    text-decoration: none;
+    font-size: 1.6rem;
+    margin-bottom: 5px;
+}
+
+.sell--nav {
+    display: flex;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 5px;
+}
+
+.sell__nav-item {
+    font-size: 1.4rem;
+    padding-left: 5px;
+    padding-right: 8px;
+}
+
+.itim--hihi {
+    color: red;
+}
+
+.nha-rieng {
+    text-decoration: none;
+    color: #000;
+}
+
+.name--sell {
+    font-size: 1.4rem;
+    color: #000;
+    font-weight: 400;
+    line-height: 2rem;
+}
+
+.avata {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 0;
+}
+
+.flex-img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sell-icon--name {
+   align-self: center;
+   padding-left: 5px;
+}
+
+.minion--cart {
+    font-size: 1.4rem;
+    padding-left: 5px;
+    padding-right: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.your__ford-ime {
+    padding-left: 5px;
+}
+
+.representative--colum {
+    position: sticky;
+    top: 10px;
+    padding-left: 15px;
+    height: 100%;
+}
+
+
+.representative {
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.representative--name {
+    padding: 15px;
+}
+
+.tattive--gioi-thieu {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.tattive-icon {
+    padding: 5px;
+}
+
+.icon-name--tive:hover {
+    text-decoration: underline;
+}
+
+.icon-nipve {
+    font-size: 1.2rem;
+    padding-right: 3px;
+}
+
+.name-tive {
+    font-size: 1.4rem;
+    color: #000;
+    text-decoration: none;
+}
+
+.tive-jim {
+    color: #c00;
+}
+
+
+.itron-min {
+   margin-bottom: 15px;
+    width: 100%;
+}
+
+.du__an-chung {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.silder__Outstanding {
+    max-width: 65px;
+    object-fit: contain;
+}
+
+.Outstanding {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*  */
